@@ -1,0 +1,9 @@
+[package]
+name = "sat-bsp"
+version = "0.0.1"
+authors = ["Valerian <smiloo@gmail.com>"]
+
+
+[dependencies.cgmath]
+git = "https://github.com/kvark/cgmath-rs.git"
+branch = "neg2"
